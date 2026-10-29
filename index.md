@@ -8,7 +8,7 @@ Góc nhỏ chia sẻ về Gunpla/Model Kits, tư duy Game Design và những dò
 
 ---
 
-## 🤖 Gunpla & Model Kits
+## Gunpla
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains 'gunpla' %}
@@ -21,7 +21,7 @@ Góc nhỏ chia sẻ về Gunpla/Model Kits, tư duy Game Design và những dò
 
 ---
 
-## 🎮 Game & Game Design
+## Game/Game Design
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains 'game' %}
@@ -34,7 +34,7 @@ Góc nhỏ chia sẻ về Gunpla/Model Kits, tư duy Game Design và những dò
 
 ---
 
-## 💬 Random Rants
+## Random Rants
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains 'rant' %}
