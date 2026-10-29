@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Welcome to _veneneux's corner
 
-Góc nhỏ chia sẻ về Gunpla/Model Kits, tư duy Game Design và những dòng suy nghĩ ngẫu hứng.
 
 ---
 
