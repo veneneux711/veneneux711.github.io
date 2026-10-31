@@ -3,8 +3,20 @@
 
 @import "{{ site.theme }}";
 
-/* Ẩn link View My GitHub Profile và danh sách nút bấm ở sidebar */
+/* Ẩn link GitHub Profile ở sidebar */
 header p.view,
 header ul {
   display: none !important;
+}
+
+/* Style lại danh sách dọc cho blog */
+section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 20px;
+
+  li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+  }
 }
