@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Ẩn nút View My GitHub Profile ở sidebar */
+header ul {
+  display: none !important;
+}
