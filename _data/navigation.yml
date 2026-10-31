@@ -1,9 +1,9 @@
 main:
   - title: "Gunpla"
-    url: /categories/#gunpla
+    url: /gunpla/
   - title: "Game Review/Game Design"
-    url: /categories/#game
+    url: /game/
   - title: "Random Rants"
-    url: /categories/#rant
+    url: /rant/
   - title: "All Posts"
-    url: /year-archive/
+    url: /all-posts/
