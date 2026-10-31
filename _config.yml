@@ -1,6 +1,38 @@
-theme: jekyll-theme-minimal
-title: _veneneux's
-description: random shitpost
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark" # Chọn skin: dark, air, aqua, contrast, dirt, neon, plum, sunrise
 
-show_downloads: false
-google_analytics:
+title: "_veneneux's"
+bio: "Gunpla, Game Design & Random Rants"
+author:
+  name: "_veneneux"
+  avatar: "/assets/images/avatar.jpg" # (Tùy chọn) Thêm ảnh đại diện vào assets/images/
+
+# Cấu hình thanh Navigation ngang
+main_navigation:
+  - title: "Gunpla"
+    url: /categories/#gunpla
+  - title: "Game/Game Design"
+    url: /categories/#game
+  - title: "Random Rants"
+    url: /categories/#rant
+
+# Plugins bắt buộc cho Minimal Mistakes
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
