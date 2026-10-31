@@ -5,7 +5,7 @@ title: "_veneneux's"
 bio: "Gunpla, Game Design & Random Rants"
 author:
   name: "_veneneux"
-  avatar: "/assets/images/avatar.jpg" # (Tùy chọn) Thêm ảnh đại diện vào assets/images/
+# avatar: "/assets/images/avatar.jpg" # (Tùy chọn) Thêm ảnh đại diện vào assets/images/
 
 # Cấu hình thanh Navigation ngang
 main_navigation:
