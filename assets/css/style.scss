@@ -3,7 +3,8 @@
 
 @import "{{ site.theme }}";
 
-/* Ẩn nút View My GitHub Profile ở sidebar */
+/* Ẩn link View My GitHub Profile và danh sách nút bấm ở sidebar */
+header p.view,
 header ul {
   display: none !important;
 }
