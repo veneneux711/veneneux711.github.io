@@ -2,10 +2,7 @@
 title: "Lost Ark Design Issue: From monetization, raid design, system issue to community behaviour"
 excerpt: ""
 date: 2026-11-02
-categories:
-  - gamedesign
-tags:
-  - rant
+categories: [Game Design]
 ---
 
 ### *  Disclaimer: Anh Việt lẫn lộn thông cảm
