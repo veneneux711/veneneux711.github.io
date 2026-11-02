@@ -1,0 +1,21 @@
+
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+.bundle
+{%- endif -%}
+';
+
+/* Hide post excerpts on homepage */
+#post-list .card-text,
+#post-list .post-content,
+#post-list .post-desc {
+  display: none !important;
+}
