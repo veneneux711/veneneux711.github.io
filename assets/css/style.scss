@@ -1,8 +1,4 @@
----
----
-@import 'main';
-
-/* Ẩn phần chữ tóm tắt/nội dung xem trước ở tất cả bài viết trang chủ Chirpy */
+/* Ẩn phần nội dung tóm tắt của bài viết trên trang chủ */
 #post-list .card-text {
-  display: none !important;
+    display: none !important;
 }
