@@ -8,3 +8,7 @@
 #post-list .post-desc {
     display: none !important;
 }
+/* Hide post excerpts on homepage */
+#post-list .card-text.content {
+    display: none !important;
+}
