@@ -1,6 +1,6 @@
 ---
 title: "Game Breaking Point: Lost Ark"
-excerpt: ""
+description: " "
 date: 2026-11-1
 categories: [Game Breaking Point]
 ---
