@@ -1,0 +1,27 @@
+- title: HOME
+  url: /
+  icon: fas fa-home
+
+- title: GUNPLA
+  url: /categories/gunpla/
+  icon: fas fa-cube
+
+- title: GAME REVIEW
+  url: /categories/game-review/
+  icon: fas fa-gamepad
+
+- title: GAME DESIGN
+  url: /categories/game-design/
+  icon: fas fa-drafting-compass
+
+- title: GAME BREAKING POINT
+  url: /categories/game-breaking-point/
+  icon: fas fa-skull-crossbones
+
+- title: RANDOM RANTS
+  url: /categories/random-rants/
+  icon: fas fa-comment-dots
+
+- title: ALL POSTS
+  url: /archives/
+  icon: fas fa-archive
