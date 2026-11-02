@@ -2,10 +2,7 @@
 title: "Game Breaking Point: Lost Ark"
 excerpt: ""
 date: 2026-11-1
-categories:
-  - gamebreak
-tags:
-  - quit
+categories: [Game Breaking Point]
 ---
 
 -Đã chơi game này tầm 2000h  
