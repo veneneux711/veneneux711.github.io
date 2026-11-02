@@ -1,0 +1,10 @@
+---
+---
+@import 'main';
+
+/* Ẩn hoàn toàn tóm tắt bài viết trên trang chủ */
+#post-list .card-text,
+#post-list .post-content,
+#post-list .post-desc {
+    display: none !important;
+}
